@@ -1,6 +1,4 @@
-=============================
 ====---- RandomGame ----=====
-=============================
 
 Ceci est le premier programme en C# que jai crée quand jai commencé a l'apprendre, je ne l'ai jamais fini
 car jai dev d'autre Project pour apprendre plus en profondeur ce langage et d'autre chose que je n'avais jamais
@@ -13,3 +11,5 @@ il y a une petite chance que le programme crash avec erreur rouge (fait exprès,
 vous avez un staffmode, mais pour y entrée, vous devrez trouvé le code écrit en clair dans le code ^^
 
 Bonne chance et Bon jeu :D
+
+// Made with ♥ and ♬ by ivn_tnk
